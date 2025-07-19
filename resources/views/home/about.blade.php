@@ -6,11 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <x-nav-link></x-nav-link>
-
-
-    <div>
-        Welcome to About
-    </div>
+      <x-nav-link></x-nav-link>
+    <h1>Kamon acen</h1>
 </body>
 </html>
